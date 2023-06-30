@@ -2,7 +2,7 @@ _Describe your changes here. Mark relevant issues for closure with `closes #N`._
 
 ---
 
-_Internal use. **DO NOT DELETE!**_
+_Internal use. Do not delete._
 
 - [ ] Tests passing
 - [ ] Coverage sufficient
